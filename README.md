@@ -1,11 +1,11 @@
 # Welcome to Devkeepr 👋
 
-Devkeepr is an organization focused on building developer tools and resources.
+The stack agnostic Swiss army knife for keeping your development environments up-to-date
 
 ## 📚 Key Repositories
 
-- **[Community](https://github.com/devkeepr/community)** - Issue & discussion board for feedback, questions, and community engagement
-- **[Releases](https://github.com/devkeepr/releases)** - Official release announcements and changelogs
+- **[Releases](https://github.com/devkeepr/releases)** - Official releases and changelogs
+- **[Community](https://github.com/devkeepr/community)** - Issue & discussion board for feedback, questions, and announcements
 
 ## 🤝 Get Involved
 
